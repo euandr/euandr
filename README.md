@@ -5,6 +5,7 @@
 #
 <img src="https://github.com/euandr/euandr/blob/main/Scrat_29.webp" alt="Texto Alternativo">
 
+<p>contributions</p>
 #
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/euandr/euandr/output/github-contribution-grid-snake-dark.svg">
