@@ -3,9 +3,7 @@
 </div>
 
 #
-
 <img src="https://github.com/euandr/euandr/blob/main/Scrat_29.webp" alt="Texto Alternativo">
-
 
 
 ## Contributions
