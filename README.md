@@ -4,7 +4,9 @@
   <!--<img src="https://readme-typing-svg.demolab.com?font=Merriweather+Code&pause=1000&size=25&width=435&lines=+Ola!+Eu+sou+o+Andr%C3%A9+Alvino%F0%9F%91%8B">
   <!-- site: https://readme-typing-svg.herokuapp.com/demo/ -->
 </div>
-![euandr's Stats](https://github-readme-stats.vercel.app/api?username=euandr&theme=merko&show_icons=true&hide_border=true&count_private=true)
+
+![euandr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=euandr&theme=merko&hide_border=true)
+
 #
 <img src="https://github.com/euandr/euandr/blob/main/Scrat_29.webp" alt="Texto Alternativo">
 
