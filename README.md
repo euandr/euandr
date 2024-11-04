@@ -5,10 +5,9 @@
   <!-- site: https://readme-typing-svg.herokuapp.com/demo/ -->
 </div>
 
-![euandr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=euandr&theme=merko&hide_border=true)
 
 #
-<img src="https://github.com/euandr/euandr/blob/main/Scrat_29.webp" alt="Texto Alternativo">
+<img src="https://icongr.am/devicon/java-original.svg?size=118&color=currentColor">
 
 
 ## Contributions
