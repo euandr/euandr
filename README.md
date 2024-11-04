@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&pause=1000&width=435&lines=Olahttps://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&pause=1000&width=435&lines=Ola!;Eu+sou+o+Andr%C3%A9+Alvino%F0%9F%91%8B](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=2000&pause=1000&vCenter=true&width=435&lines=Ola!;Eu+sou+o+Andr%C3%A9+Alvino%F0%9F%91%8B)">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=2000&pause=1000&vCenter=true&width=435&lines=Ola!;Eu+sou+o+Andr%C3%A9+Alvino%F0%9F%91%8B">
   
   <!--<img src="https://readme-typing-svg.demolab.com?font=Merriweather+Code&pause=1000&size=25&width=435&lines=+Ola!+Eu+sou+o+Andr%C3%A9+Alvino%F0%9F%91%8B">
   <!-- site: https://readme-typing-svg.herokuapp.com/demo/ -->
