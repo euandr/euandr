@@ -10,9 +10,10 @@
 <img src="https://github.com/euandr/euandr/blob/main/Scrat_29.webp" alt="Texto Alternativo">
 
 <!-- Ícone do Instagram -->
-<div> 
-  <a href="https://www.instagram.com/oqandrefaria/profilecard/?igsh=cGltZmFzMXd0NzVs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/_oqandrefaria_/?igsh=cGltZmFzMXd0NzVs)
+
+
 
 
 ## Contributions
