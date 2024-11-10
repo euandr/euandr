@@ -9,6 +9,14 @@
 #
 <img src="https://github.com/euandr/euandr/blob/main/Scrat_29.webp" alt="Texto Alternativo">
 
+<!-- Ícone do Instagram -->
+<div align="center">
+  <a href="https://www.instagram.com/__oqandrefaria__" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:40px;height:40px;">
+  </a>
+  <p><a href="https://www.instagram.com/__oqandrefaria__" target="_blank">Instagram</a></p>
+</div>
+
 
 ## Contributions
 
