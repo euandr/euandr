@@ -181,4 +181,4 @@ def main(pagina):
         )
     )
 
-ft.app(target=main, view=ft.WEB_BROWSER, port=8000)
+ft.app(target=main, view=ft.WEB_BROWSER)
