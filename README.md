@@ -1,3 +1,9 @@
+  <!-- 
+  crei uma pendrive bootavel usando o rufus, e a iso do kali linux. Esquema de partição MBR. 
+     vou querer usar esse Sistema apenas no pendrive, ou seja, as coisas que eu fizer nele deveram ficar salvas no pendrive, dai eu desplugar o pendrive não quero perder essas coisas. Devo primero executado como persistente né?
+  -->
+
+
 <div align="center">
   <!--<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=2000&pause=500&vCenter=true&width=435&lines=Ola!;Eu+sou+o+Andr%C3%A9+Alvino%F0%9F%91%8B"> -->
   
