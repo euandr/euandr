@@ -15,9 +15,9 @@
 #
 <img src="https://github.com/euandr/euandr/blob/main/Scrat_29.webp" alt="Texto Alternativo">
 
-<!--  Ícone/Redes sociais -->
+<!--  Ícone/Redes sociais 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/_oqandrefaria_/?igsh=cGltZmFzMXd0NzVs)
+)](https://www.instagram.com/_oqandrefaria_/?igsh=cGltZmFzMXd0NzVs)-->
 
 
 
