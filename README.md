@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/_oqandrefaria_/?igsh=cGltZmFzMXd0NzVs">
     <img 
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-      width="500"
+      width="600"
     >
   </a>
 </div>
