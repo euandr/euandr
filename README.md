@@ -16,10 +16,14 @@
 <img src="https://github.com/euandr/euandr/blob/main/Scrat_29.webp" alt="Texto Alternativo">
 
 <!--  Ícone/Redes sociais -->
-<a href="https://www.instagram.com/_oqandrefaria_/?igsh=cGltZmFzMXd0NzVs">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="380">
-</a>
-
+<div align="center">
+  <a href="https://www.instagram.com/_oqandrefaria_/?igsh=cGltZmFzMXd0NzVs">
+    <img 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      width="380"
+    >
+  </a>
+</div>
 
 
 
