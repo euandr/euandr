@@ -16,8 +16,8 @@
 <img src="https://github.com/euandr/euandr/blob/main/Scrat_29.webp" alt="Texto Alternativo">
 
 <!--  Ícone/Redes sociais -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/_oqandrefaria_/?igsh=cGltZmFzMXd0NzVs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelWidth=378)](https://www.instagram.com/_oqandrefaria_/?igsh=cGltZmFzMXd0NzVs)
+
 
 
 
