@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/euandr/euandr/refs/heads/main/Banner.png" alt="Texto Alternativo">
+<img src="https://raw.githubusercontent.com/euandr/euandr/refs/heads/main/BannerBlue.png" alt="Texto Alternativo">
 
 <!--  Ícone/Redes sociais -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelWidth=378)](https://www.instagram.com/_oqandrefaria_/?igsh=cGltZmFzMXd0NzVs)
