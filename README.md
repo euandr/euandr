@@ -12,7 +12,7 @@
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Entre em contato 🤝 </h2>
-<div align="center  display: flex; gap: 16px;">
+<div align="center" style="display: flex; gap: 30px; justify-content: center;">
   
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andrefariasalvino@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="andrefariasalvino@gmail.com" style="margin-bottom: 5px;" />
