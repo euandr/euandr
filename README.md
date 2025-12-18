@@ -1,10 +1,43 @@
+<div>
+  <img src="https://raw.githubusercontent.com/euandr/euandr/refs/heads/main/BannerBlue.png" alt="Texto Alternativo">
+</div>
 
-<img src="https://raw.githubusercontent.com/euandr/euandr/refs/heads/main/BannerBlue.png" alt="Texto Alternativo">
+<!--header-->
+# <img src="https://raw.githubusercontent.com/euandr/euandr/refs/heads/main/mario.gif" width="30"/> Olá, eu sou o André! 
+<!--*Digital Craftsman (Developer / Programmer)*-->
+<br /> 
 
-<!--  Ícone/Redes sociais -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelWidth=378)](https://www.instagram.com/_oqandrefaria_/?igsh=cGltZmFzMXd0NzVs)
 
 
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Entre em contato 🤝 </h2>
+<div align="center  display: flex; gap: 16px;">
+  
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=andrefariasalvino@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="andrefariasalvino@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/_oqandrefaria_" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="_oqandrefaria_" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.githubcom/euandr" target="_blank">
+<img src="./github.png" width=50 height=50 alt="euandr" style="margin-bottom: 5px;" />
+</a>
+
+<a href="www.linkedin.com/in/andré-alvino-33b4a72a4" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+</div>
+<br/>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
 
 
