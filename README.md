@@ -3,7 +3,7 @@
 </div>
 
 <!--header-->
-# <img src="https://raw.githubusercontent.com/euandr/euandr/refs/heads/main/mario.gif" width="30"/> Olá, eu sou o André! 
+# <img src="https://raw.githubusercontent.com/euandr/euandr/refs/heads/main/mario.gif" width="30"/>Eu sou o André! 
 <!--*Digital Craftsman (Developer / Programmer)*-->
 <br /> 
 
