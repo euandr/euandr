@@ -13,7 +13,7 @@
 - ✨ Estudante da vida :)
 - 🌱 Atualmente estou aprendendo muitas coisas, acredito que todos os dias são uma oportunidade de aprendizado.
 - ❤ Contribuindo para o código aberto.
-- 💻 Visite meu [Portfolio](futuramente) para mais detalhes sobre mim.
+- 💻 Visite meu [Portfolio](https://euandr.github.io/portifolio/) para mais detalhes sobre mim.
 <!--End Intro-->
 
 
