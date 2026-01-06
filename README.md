@@ -7,6 +7,14 @@
 <!--*Digital Craftsman (Developer / Programmer)*-->
 <br /> 
 
+<!--Start Intro-->               
+<p align="left">Sou um entusiasta em desenvolvimento Web e de aprendizado de máquina, com experiência em Python, React.js, Node.js, APIs REST e visualização de dados.</p>
+
+- ✨ Estudante da vida :)
+- 🌱 Atualmente estou aprendendo muitas coisas, acredito que todos os dias são uma oportunidade de aprendizado.
+- ❤ Contribuindo para o código aberto.
+- 💻 Visite meu [Portfolio](futuramente) para mais detalhes sobre mim.
+<!--End Intro-->
 
 
 <!--Contact Section--> 
@@ -34,13 +42,6 @@
 <br/>
 
 
-<!--Footer--> 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"
-    width="100%"
-  />
-</p>
 
 
 <br/>
