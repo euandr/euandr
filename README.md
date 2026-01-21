@@ -3,7 +3,7 @@
 </div>
 
 <!--header-->
-# 👨🏻‍💻 Eu sou o André! 
+# 👨🏻‍💻 **Eu sou o André! **
 <!--*Digital Craftsman (Developer / Programmer)*-->
 <br /> 
 
@@ -20,7 +20,7 @@
 
 
 ## stacks
-
+[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,aws,docker,git)](https://skillicons.dev)
 
 ## Entre em contato  
 <div style="display: flex; gap: 30px; justify-content: center;">
