@@ -3,23 +3,19 @@
 </div>
 
 <!--header-->
-# 👨🏻‍💻 **Eu sou o André! **
+# 👨🏻‍💻 Eu sou o André! 
 <!--*Digital Craftsman (Developer / Programmer)*-->
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Sou um entusiasta em desenvolvimento Web e de aprendizado de máquina, com experiência em Python, React.js, Node.js, APIs REST e visualização de dados.</p>
-
+Sou um entusiasta em desenvolvimento Web e de aprendizado de máquina, com experiência em Python, React.js, Node.js, APIs REST e visualização de dados.
 - ✨ Transfromando ideias em código
 - 🌱 Atualmente estou aprendendo muitas coisas, acredito que todos os dias são uma oportunidade de aprendizado.
-- ❤ Contribuindo para o código aberto.
-- 💻 Visite meu [Portfolio](https://euandr.github.io/portifolio/) para mais detalhes sobre mim.
+- 🆙 Contribuindo para o código aberto.
+- 💻 Visite meu [Portfolio](https://euandr.github.io/portifolio/) para mais detalhes.
 <!--End Intro-->
-<br/>
-<br/>
 
-
-## stacks
+<h3> <strong>stacks </strong></h3>
 [![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,aws,docker,git)](https://skillicons.dev)
 
 ## Entre em contato  
