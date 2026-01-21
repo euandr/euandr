@@ -15,8 +15,8 @@ Sou um entusiasta em desenvolvimento Web e de aprendizado de máquina, com exper
 - 💻 Visite meu [Portfolio](https://euandr.github.io/portifolio/) para mais detalhes.
 <!--End Intro-->
 
-<h3> <strong>stacks </strong></h3>
-[![My Skills](https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,mongodb,postgres,prisma,tailwind,aws,docker,git)](https://skillicons.dev)
+## stacks
+[![My Skills](https://skillicons.dev/icons?i=js,python,react,nodejs,tailwind,docker,git,linux,opencv,sqlite,supabase,unity,obsidian)](https://skillicons.dev)
 
 ## Entre em contato  
 <div style="display: flex; gap: 30px; justify-content: center;">
