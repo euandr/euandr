@@ -15,17 +15,14 @@
 - ❤ Contribuindo para o código aberto.
 - 💻 Visite meu [Portfolio](https://euandr.github.io/portifolio/) para mais detalhes sobre mim.
 <!--End Intro-->
-
-
-
-
 <br/>
 <br/>
 
 
-<!--Contact Section--> 
+## stacks
 
-# Entre em contato  
+
+## Entre em contato  
 <div style="display: flex; gap: 30px; justify-content: center;">
   
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andrefariasalvino@gmail.com" target="_blank">
