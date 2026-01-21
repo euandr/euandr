@@ -25,7 +25,7 @@
 
 <!--Contact Section--> 
 
-<h2 Entre em contato  </h2>
+# Entre em contato  
 <div style="display: flex; gap: 30px; justify-content: center;">
   
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andrefariasalvino@gmail.com" target="_blank">
