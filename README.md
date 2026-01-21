@@ -3,14 +3,14 @@
 </div>
 
 <!--header-->
-# <img src="https://raw.githubusercontent.com/euandr/euandr/refs/heads/main/mario.gif" width="30"/> Eu sou o André! 
+# 👨🏻‍💻 Eu sou o André! 
 <!--*Digital Craftsman (Developer / Programmer)*-->
 <br /> 
 
 <!--Start Intro-->               
 <p align="left">Sou um entusiasta em desenvolvimento Web e de aprendizado de máquina, com experiência em Python, React.js, Node.js, APIs REST e visualização de dados.</p>
 
-- ✨ Estudante da vida :)
+- ✨ Transfromando ideias em código
 - 🌱 Atualmente estou aprendendo muitas coisas, acredito que todos os dias são uma oportunidade de aprendizado.
 - ❤ Contribuindo para o código aberto.
 - 💻 Visite meu [Portfolio](https://euandr.github.io/portifolio/) para mais detalhes sobre mim.
@@ -25,8 +25,8 @@
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Entre em contato 🤝 </h2>
-<div align="center" style="display: flex; gap: 30px; justify-content: center;">
+<h2 Entre em contato  </h2>
+<div style="display: flex; gap: 30px; justify-content: center;">
   
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=andrefariasalvino@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="andrefariasalvino@gmail.com" style="margin-bottom: 5px;" />
