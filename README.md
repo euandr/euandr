@@ -1,5 +1,5 @@
 <div>
-  <img src="https://raw.githubusercontent.com/euandr/euandr/refs/heads/main/BannerBlue.png" alt="Texto Alternativo">
+  <img src="https://raw.githubusercontent.com/euandr/euandr/refs/heads/main/Bannereuandr.github.ioportifolio.png" alt="Texto Alternativo">
 </div>
 
 <!--header-->
