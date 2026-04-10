@@ -15,7 +15,7 @@ Sou um entusiasta em desenvolvimento Web e de aprendizado de máquina, com exper
 <!--End Intro-->
 
 ## stacks
-[![My Skills](https://skillicons.dev/icons?i=js,python,react,nodejs,tailwind,docker,git,linux,opencv,sqlite,supabase,unity,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,react,tailwind,docker,git,linux,opencv,sqlite,supabase,unity,obsidian)](https://skillicons.dev)
 
 ## Entre em contato  
 <div style="display: flex; gap: 30px; justify-content: center;">
