@@ -32,7 +32,7 @@ Sou um entusiasta em desenvolvimento Web e de aprendizado de máquina, com exper
 <img src="./github.png" width=50 height=50 alt="euandr" style="margin-bottom: 5px;" />
 </a>
 
-<a href="www.linkedin.com/in/andré-alvino-33b4a72a4" target="_blank">
+<a href="https://www.linkedin.com/in/andré-alvino-33b4a72a4" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
