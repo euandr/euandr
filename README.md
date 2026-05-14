@@ -8,7 +8,7 @@
 <br /> 
 
 <!--Start Intro-->               
-Sou um entusiasta em desenvolvimento Web e de aprendizado de máquina, com experiência em Python, React.js, Node.js, APIs REST e visualização de dados.
+Sou um entusiasta em desenvolvimento Web e de aprendizado de máquina, com experiência em Python, Visão computacional, Js, Node.js, APIs REST e visualização de dados.
 - ✨ Transfromando ideias em código
 - 🌱 Sempre buscando aprender algo novo, acredito que todos os dias são uma oportunidade de aprendizado.
 - 💻 Visite meu [Portfolio](https://euandr.github.io/portifolio/) para mais detalhes.
