@@ -3,7 +3,7 @@
 </div>
 
 <!--header-->
-# 👨🏻‍💻 Eu sou o André! 
+# 👨🏻‍💻Ola, eu sou o André! 
 <!--*Digital Craftsman (Developer / Programmer)*-->
 <br /> 
 
