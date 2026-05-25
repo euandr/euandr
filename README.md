@@ -8,7 +8,7 @@
 <br /> 
 
 <!--Start Intro-->               
-Sou um entusiasta em desenvolvimento Web e de aprendizado de máquina, com experiência em Python, Visão computacional, Js, Node.js, APIs REST e visualização de dados.
+Estou cursando Análise e Desenvolvimento de Sistemas. Gosto de tecnologia e programação, com experiência em Python, visão computacional e automações. Já desenvolvi projetos nessas áreas, além de trabalhar com JavaScript e desenvolvimento web. Também curto explorar criação de jogos na Unity nas horas vagas.
 - ✨ Transfromando ideias em código
 - 🌱 Sempre buscando aprender algo novo, acredito que todos os dias são uma oportunidade de aprendizado.
 - 💻 Visite meu [Portfolio](https://euandr.github.io/portifolio/) para mais detalhes.
