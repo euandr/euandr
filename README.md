@@ -10,7 +10,7 @@
 <br /> 
 
 <!--Start Intro-->               
-Cursando Análise e Desenvolvimento de Sistemas. Gosto de tecnologia e programação, com experiência em Python, visão computacional e automações. Já desenvolvi projetos nessas áreas, além de trabalhar em projetos com JavaScript e desenvolvimento web. Também curto explorar criação de jogos na Unity nas horas vagas.
+Cursando Análise e Desenvolvimento de Sistemas. Gosto de tecnologia e programação, com experiência em Python, visão computacional, Deep Learn e automações. Já desenvolvi projetos nessas áreas, além de trabalhar em projetos com JavaScript e desenvolvimento web. Também curto explorar criação de jogos na Unity nas horas vagas.
 - ✨ Transfromando ideias em código
 - 🌱 Sempre buscando aprender algo novo e evoluir um pouco a cada dia.
 - 💻 Visite meu [Portfolio](https://euandr.github.io/portifolio/) para mais detalhes.
