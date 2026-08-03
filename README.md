@@ -17,7 +17,7 @@ Cursando An√°lise e Desenvolvimento de Sistemas. Gosto de tecnologia e programa√
 <!--End Intro-->
 
 ## stacks
-[![My Skills](https://skillicons.dev/icons?i=js,python,cs,unity,react,docker,opencv,supabase,obsidian,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,cs,unity,react,fastapi,opencv,supabase,obsidian,arduino)](https://skillicons.dev)
 
 ## Entre em contato  
 <div style="display: flex; gap: 30px; justify-content: center;">
