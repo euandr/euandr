@@ -49,9 +49,14 @@ Cursando An√°lise e Desenvolvimento de Sistemas. Gosto de tecnologia e programa√
 
 
 ## Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/euandr/euandr/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
+</p>
 
-<picture align="center">
+<!-- snake -->
+
+<!-- <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/euandr/euandr/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/euandr/euandr/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/euandr/euandr/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
