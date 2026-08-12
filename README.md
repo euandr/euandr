@@ -39,9 +39,6 @@ Cursando An√°lise e Desenvolvimento de Sistemas. Gosto de tecnologia e programa√
 </a>
 
 </div>
-<br/>
-
-
 
 
 ## Contributions
