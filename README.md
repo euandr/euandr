@@ -44,10 +44,6 @@ Cursando An√°lise e Desenvolvimento de Sistemas. Gosto de tecnologia e programa√
 
 
 
-<br/>
-<br/>
-
-
 ## Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/euandr/euandr/output/space-shooter.gif" width="100%" alt="Animated Space Shooter contribution game" />
