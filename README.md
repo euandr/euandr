@@ -17,7 +17,7 @@ Gosto de tecnologia e programação, com experiência em Python, visão computac
 <!--End Intro-->
 
 ## stacks
-[![My Skills](https://skillicons.dev/icons?i=js,python,cs,unity,react,fastapi,opencv,supabase,obsidian,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,unity,react,fastapi,opencv,supabase,obsidian,arduino)](https://skillicons.dev)
 
 ## Entre em contato  
 <div style="display: flex; gap: 30px; justify-content: center;">
